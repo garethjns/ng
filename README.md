@@ -122,7 +122,7 @@ g = ng;
 g.showOriginal;
 ````
 
-![Original figure text](https://github.com/garethjns/ng/blob/master/Images/ex3_1.png)  
-![Modified figure text](https://github.com/garethjns/ng/blob/master/Images/ex3_2.png)
+![Original figure text](https://github.com/garethjns/ng/blob/master/Images/Ex3_1.png)  
+![Modified figure text](https://github.com/garethjns/ng/blob/master/Images/Ex3_2.png)
 
 
