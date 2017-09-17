@@ -61,8 +61,7 @@ ng
 ![Modified figure](https://github.com/garethjns/ng/blob/master/Images/Ex1_2.png)
 
 ## Example 2
-````
-
+````MATLAB
 noise = randn(1000,1000)/3;
 y = ones(1000,1000)+noise.*0.1;
 y2 = repmat(sin(linspace(1,32,1000)).*cos(logspace(1,2,1000)), 1000, 1);
@@ -91,7 +90,7 @@ g.showOriginal
 ![Modified figure](https://github.com/garethjns/ng/blob/master/Images/Ex2_2.png)
 
 ## Example 3
-````
+````MATLAB
 % Generate data
 nG = 6;
 nP = 56;
