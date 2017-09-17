@@ -57,6 +57,9 @@ title('Figure')
 ng
 ````
 
+![Original figure](https://github.com/garethjns/ng/blob/master/Images/Ex1_1.png)  
+![Modified figure](https://github.com/garethjns/ng/blob/master/Images/Ex1_2.png)
+
 ## Example 2
 ````
 
@@ -83,6 +86,9 @@ g.hgx('Figure')
 % SHow the original figure
 g.showOriginal
 ````
+
+![Original figure](https://github.com/garethjns/ng/blob/master/Images/Ex2_1.png)  
+![Modified figure](https://github.com/garethjns/ng/blob/master/Images/Ex2_2.png)
 
 ## Example 3
 ````
@@ -115,5 +121,8 @@ g = ng;
 % Compare to original
 g.showOriginal;
 ````
+
+![Original figure text](https://github.com/garethjns/ng/blob/master/Images/ex3_1.png)  
+![Modified figure text](https://github.com/garethjns/ng/blob/master/Images/ex3_2.png)
 
 
